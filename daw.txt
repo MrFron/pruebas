@@ -1,4 +1,4 @@
 Programación 
 Bases de Datos 
 Diseño de interfícies web
-Desplegament d'alicacions web
+Desplegament d'aplicacions web
