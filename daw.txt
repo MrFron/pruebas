@@ -1,1 +1,4 @@
-Programación
+Programación 
+Bases de Datos 
+Diseño de interfícies web
+Desplegament d'aplicacions web
